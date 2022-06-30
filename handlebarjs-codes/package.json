@@ -1,0 +1,19 @@
+{
+  "name": "handlebarjs-codes",
+  "version": "1.0.0",
+  "description": "Handlebarjs code and snippets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "keywords": [
+    "handlebarjs",
+    "templates"
+  ],
+  "author": "Vatsal Mehta",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.7.7"
+  }
+}

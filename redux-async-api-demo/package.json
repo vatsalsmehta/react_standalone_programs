@@ -1,0 +1,22 @@
+{
+  "name": "redux-async-api-demo",
+  "version": "1.0.0",
+  "description": "using async api call with redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "async",
+    "await",
+    "redux",
+    "api"
+  ],
+  "author": "Vatsal Mehta",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "redux": "^4.2.0",
+    "redux-thunk": "^2.4.1"
+  }
+}
